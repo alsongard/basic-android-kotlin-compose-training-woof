@@ -92,6 +92,7 @@ fun WoofTopAppBar(modifier: Modifier = Modifier)
 
 /**
  * Composable that displays an app bar and a list of dogs.
+ A Scaffold is a layout that provides slots for various components and screen elements, such as an Image, Row, or Column. A Scaffold also provides a slot for a TopAppBar
  */
 @Composable
 fun WoofApp() {
